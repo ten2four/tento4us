@@ -1,1 +1,16 @@
-
+html {
+  height: 100%;
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
+}
+h1 {background-color:pink;text-align:left;font-weight:60;font-family:georgia;color:blue;
+   border:5px yellow}
+li {list-style-type:none;
+    margin-center:30px;
+    display:inline;border-right:1px solid blue;
+    border-left:1px solid blue;padding:2px;
+   }
+ul {background-color:pink;}
+body {border-style:dotted;border-color:green;border-radius:20px;background-color:beige;text-align:center}
+marquee{font-family:arial;color: blue;
+        }
