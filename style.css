@@ -14,4 +14,4 @@ ul {background-color:pink;}
 body {border-style:dotted;border-color:green;border-radius:20px;background-color:beige;text-align:center}
 marquee{font-family:arial;color: blue;
         }
-img{display: block; margin-left: auto; margin-right: auto; width: 80px;}
+img{display: block; margin-left: auto; margin-right: auto; width: auto;}
