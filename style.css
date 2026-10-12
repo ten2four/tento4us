@@ -1,4 +1,4 @@
-h1 {text-align:center;font-weight:bold;color:yellow;border:5px solid aqua;background:pink}
+h1 {text-align:center;font-weight:bold;color:yellow;border:5px solid aqua;border-style:dotted;background:pink}
 p {font-family:georgia;color: light grey;font-size:12;}
 body {background-color:beige; border-style:solid; border-color:black;border-radius:20px;
      }
