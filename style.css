@@ -1,6 +1,7 @@
 h1 {text-align:center;font-weight:bold;color:yellow;border:5px solid aqua;border-style:dotted;background:pink}
 p {font-family:georgia;color: black;
    font-size:20px;
+   border-style:solid;
   border-radius:10px;
    border:2px yellow;
   }
